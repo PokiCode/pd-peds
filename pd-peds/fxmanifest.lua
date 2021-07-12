@@ -1,3 +1,6 @@
+fx_version 'cerulean'
+games { 'gta5' }
+
 author 'PokiDev'
 description 'Ped System Free Script | Pls give me a like if you liked this script | Simple Code'
 
