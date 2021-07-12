@@ -1,5 +1,3 @@
 Config = {}
 
-Config.SteamIdList = {
-    "steam:id"
-}
+Config.DefaultPedPerm = "perm.pedchange"
